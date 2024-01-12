@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 [![Serhiy Dmytruk profile views](https://u8views.com/api/v1/github/profiles/20471367/views/day-week-month-total-count.svg)](https://u8views.com/github/SerhiyDmytruk)
 
-![Serhiy Dmytruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerhiyDmytruk&show_icons=true&theme=transparent)
+
+
+| ![Serhiy Dmytruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerhiyDmytruk&show_icons=true&theme=transparent) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhiyDmytruk)](https://github.com/SerhiyDmytruk/github-readme-stats)  |
