@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <a href="https://stand-with-ukraine.pp.ua/" rel="nofollow"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg" alt="SWUbanner" style="max-width: 100%;"></a>
 
 [![Serhiy Dmytruk profile views](https://u8views.com/api/v1/github/profiles/20471367/views/day-week-month-total-count.svg)](https://u8views.com/github/SerhiyDmytruk)
+
+![Serhiy Dmytruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerhiyDmytruk&show_icons=true&theme=transparent)
